@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funtech.EpdmWordToPdf", "Funtech.EpdmWordToPdf\Funtech.EpdmWordToPdf.csproj", "{2A8775EA-32BC-447B-8350-24146481EFDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funtech.EpdmWordToPdf.Test", "Funtech.EpdmWordToPdf.Test\Funtech.EpdmWordToPdf.Test.csproj", "{650E0510-E6B8-480C-A9B7-7DC5694D8BD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{00C8ABEC-1C27-4950-BECD-6A63EE74DA49}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8775EA-32BC-447B-8350-24146481EFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8775EA-32BC-447B-8350-24146481EFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8775EA-32BC-447B-8350-24146481EFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8775EA-32BC-447B-8350-24146481EFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650E0510-E6B8-480C-A9B7-7DC5694D8BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650E0510-E6B8-480C-A9B7-7DC5694D8BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650E0510-E6B8-480C-A9B7-7DC5694D8BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650E0510-E6B8-480C-A9B7-7DC5694D8BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
